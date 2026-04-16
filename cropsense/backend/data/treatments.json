@@ -1,0 +1,676 @@
+{
+  "Apple Apple Scab": {
+    "description": "Caused by Venturia inaequalis. Produces dark, scabby lesions on leaves and fruit. Thrives in cool, wet spring weather.",
+    "treatment": [
+      "Apply Captan 50% WP at 2g per litre of water",
+      "Spray Mancozeb 75% WP at 2.5g/litre during early infection",
+      "Use Myclobutanil-based fungicide for active infections",
+      "Remove and destroy fallen infected leaves and fruit",
+      "Prune trees to improve air circulation"
+    ],
+    "prevention": [
+      "Plant scab-resistant apple varieties (e.g., Liberty, Enterprise)",
+      "Apply dormant-season copper spray before bud break",
+      "Maintain proper tree spacing for airflow",
+      "Rake and destroy fallen leaves in autumn"
+    ],
+    "severity_factors": ["humidity > 70%", "temp 15-25°C", "prolonged leaf wetness"]
+  },
+  "Apple Black Rot": {
+    "description": "Caused by Botryosphaeria obtusa. Creates circular brown lesions on fruit and frogeye leaf spots. Overwinters in mummified fruit.",
+    "treatment": [
+      "Apply Captan or Thiophanate-methyl fungicide",
+      "Remove all mummified fruit from trees and ground",
+      "Prune out dead or cankered wood during dormancy",
+      "Apply copper-based spray at green tip stage",
+      "Spray Myclobutanil at petal fall and 2 weeks after"
+    ],
+    "prevention": [
+      "Remove mummified fruit before spring",
+      "Maintain good tree hygiene and sanitation",
+      "Prune for open canopy and air circulation",
+      "Monitor and remove fire blight cankers"
+    ],
+    "severity_factors": ["warm humid conditions", "presence of mummified fruit"]
+  },
+  "Apple Cedar Apple Rust": {
+    "description": "Caused by Gymnosporangium juniperi-virginianae. Requires both apple and cedar/juniper hosts. Creates orange spots on leaves.",
+    "treatment": [
+      "Apply Myclobutanil at pink bud stage through petal fall",
+      "Spray Mancozeb at 2g/litre as preventive measure",
+      "Apply Triadimefon-based fungicide when symptoms appear",
+      "Remove any nearby cedar or juniper trees within 1km if possible",
+      "Apply sulfur-based fungicide during early growth"
+    ],
+    "prevention": [
+      "Plant rust-resistant apple varieties",
+      "Remove cedar/juniper galls before they sporulate in spring",
+      "Maintain distance from juniper windbreaks",
+      "Apply preventive fungicide sprays from pink bud onwards"
+    ],
+    "severity_factors": ["proximity to juniper/cedar", "spring rains", "temp 10-20°C"]
+  },
+  "Apple Healthy": {
+    "description": "No disease detected. The apple leaf appears healthy with normal coloration and structure.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue regular maintenance and monitoring",
+      "Maintain balanced fertilization schedule"
+    ],
+    "prevention": [
+      "Continue regular monitoring for early disease signs",
+      "Maintain proper irrigation and nutrition",
+      "Practice good orchard sanitation",
+      "Apply preventive dormant-season sprays"
+    ],
+    "severity_factors": []
+  },
+  "Blueberry Healthy": {
+    "description": "No disease detected. The blueberry leaf appears healthy with normal growth patterns.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Maintain acidic soil pH between 4.5-5.5",
+      "Continue regular watering and mulching"
+    ],
+    "prevention": [
+      "Maintain soil acidity with sulfur amendments",
+      "Use pine bark mulch to retain moisture",
+      "Prune annually to remove old canes",
+      "Monitor for pest infestations regularly"
+    ],
+    "severity_factors": []
+  },
+  "Cherry Powdery Mildew": {
+    "description": "Caused by Podosphaera clandestina. Creates white powdery coating on leaves, shoots, and fruit. Reduces photosynthesis.",
+    "treatment": [
+      "Apply sulfur-based fungicide at 3g/litre of water",
+      "Spray Trifloxystrobin at first sign of infection",
+      "Use potassium bicarbonate solution as organic alternative",
+      "Apply neem oil at 5ml/litre for mild infections",
+      "Remove heavily infected shoots and destroy"
+    ],
+    "prevention": [
+      "Plant resistant cherry varieties",
+      "Ensure proper spacing for air movement",
+      "Avoid excessive nitrogen fertilization",
+      "Water at base of tree, avoid wetting foliage"
+    ],
+    "severity_factors": ["humidity > 60%", "temp 20-30°C", "poor air circulation"]
+  },
+  "Cherry Healthy": {
+    "description": "No disease detected. The cherry leaf appears healthy with vibrant green coloration.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue standard cherry tree care practices",
+      "Maintain proper pruning schedule"
+    ],
+    "prevention": [
+      "Regular monitoring for disease symptoms",
+      "Maintain balanced nutrient program",
+      "Ensure adequate drainage around root zone",
+      "Apply dormant oil spray in late winter"
+    ],
+    "severity_factors": []
+  },
+  "Corn Cercospora Leaf Spot": {
+    "description": "Caused by Cercospora zeae-maydis. Creates rectangular gray-tan lesions between leaf veins. Reduces photosynthetic area significantly.",
+    "treatment": [
+      "Apply Azoxystrobin (Quadris) at 6ml/litre of water",
+      "Spray Pyraclostrobin + Metconazole combination fungicide",
+      "Apply foliar fungicide at VT/R1 growth stage",
+      "Use Propiconazole at 1ml/litre for active infection",
+      "Rotate with non-corn crops for at least 1 year"
+    ],
+    "prevention": [
+      "Plant resistant corn hybrids",
+      "Practice crop rotation with non-host crops",
+      "Manage crop residue through tillage",
+      "Maintain balanced nitrogen and potassium fertility"
+    ],
+    "severity_factors": ["prolonged high humidity", "temp 25-32°C", "conservation tillage"]
+  },
+  "Corn Common Rust": {
+    "description": "Caused by Puccinia sorghi. Creates small circular to elongate cinnamon-brown pustules on both leaf surfaces.",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2.5g/litre of water",
+      "Spray Propiconazole 25% EC at 1ml/litre",
+      "Apply Azoxystrobin-based fungicide at early infection",
+      "Use Triazole fungicides for severe infections",
+      "Remove lower infected leaves to reduce inoculum"
+    ],
+    "prevention": [
+      "Plant rust-resistant corn hybrids",
+      "Early planting to avoid peak rust season",
+      "Monitor fields from V8 stage onwards",
+      "Balanced fertilization to maintain plant vigor"
+    ],
+    "severity_factors": ["temp 15-25°C", "high humidity", "heavy dew formation"]
+  },
+  "Corn Northern Leaf Blight": {
+    "description": "Caused by Exserohilum turcicum. Creates large cigar-shaped gray-green lesions 2.5-15cm long on leaves.",
+    "treatment": [
+      "Apply Azoxystrobin + Propiconazole at tassel emergence",
+      "Spray Mancozeb 75% WP at 2.5g/litre preventively",
+      "Use Pyraclostrobin-based fungicide for active infection",
+      "Apply foliar fungicide before or at disease onset",
+      "Remove and destroy crop residue after harvest"
+    ],
+    "prevention": [
+      "Plant resistant hybrids with Ht gene resistance",
+      "Rotate crops - avoid corn-on-corn",
+      "Reduce surface residue through tillage",
+      "Maintain proper plant population and spacing"
+    ],
+    "severity_factors": ["moderate temp 18-27°C", "heavy dew", "overcast conditions"]
+  },
+  "Corn Healthy": {
+    "description": "No disease detected. The corn leaf appears healthy with uniform green coloration.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue standard corn management practices",
+      "Monitor for pest and disease pressure"
+    ],
+    "prevention": [
+      "Maintain proper fertility program",
+      "Scout fields regularly for disease symptoms",
+      "Practice crop rotation",
+      "Manage irrigation to avoid water stress"
+    ],
+    "severity_factors": []
+  },
+  "Grape Black Rot": {
+    "description": "Caused by Guignardia bidwellii. Creates brown circular lesions on leaves and mummifies berries. Devastating to untreated vineyards.",
+    "treatment": [
+      "Apply Myclobutanil at 0.5ml/litre starting at shoot growth",
+      "Spray Mancozeb 75% WP at 2g/litre pre-bloom",
+      "Use Captan 50% WP at 2g/litre post-bloom",
+      "Remove and destroy mummified berries and infected shoots",
+      "Apply fungicide at 7-10 day intervals during wet weather"
+    ],
+    "prevention": [
+      "Remove mummified fruit from vines and ground",
+      "Prune for open canopy and air circulation",
+      "Apply dormant Lime Sulfur spray",
+      "Begin fungicide program at 6-inch shoot growth"
+    ],
+    "severity_factors": ["warm wet weather", "temp 20-30°C", "rainfall during bloom"]
+  },
+  "Grape Esca Black Measles": {
+    "description": "Caused by complex of fungi including Phaeomoniella chlamydospora. Causes interveinal striping and eventual vine death.",
+    "treatment": [
+      "Apply Thiophanate-methyl to pruning wounds within 24 hours",
+      "Trunk injection with fungicide for established infections",
+      "Remedial trunk surgery to remove infected wood",
+      "Apply sodium arsenite (where legally permitted)",
+      "Retrain new cordons from healthy suckers"
+    ],
+    "prevention": [
+      "Protect pruning wounds with wound sealant",
+      "Prune during dry weather to prevent spore entry",
+      "Use clean, disinfected pruning tools",
+      "Double pruning technique to delay wound exposure"
+    ],
+    "severity_factors": ["vine age > 8 years", "stress conditions", "large pruning wounds"]
+  },
+  "Grape Leaf Blight": {
+    "description": "Caused by Pseudocercospora vitis (Isariopsis). Creates dark brown angular lesions with yellow halos on older leaves.",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2.5g/litre of water",
+      "Spray Copper oxychloride 50% WP at 3g/litre",
+      "Use Carbendazim 50% WP at 1g/litre for severe infections",
+      "Apply Chlorothalonil at 2g/litre as alternative",
+      "Remove severely infected leaves to reduce spread"
+    ],
+    "prevention": [
+      "Maintain good vineyard ventilation through canopy management",
+      "Avoid overhead irrigation",
+      "Balance nitrogen application to avoid lush growth",
+      "Apply preventive fungicide before monsoon season"
+    ],
+    "severity_factors": ["high humidity", "poor ventilation", "excess nitrogen"]
+  },
+  "Grape Healthy": {
+    "description": "No disease detected. The grape leaf appears healthy with normal shape and coloration.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue regular vineyard maintenance",
+      "Maintain balanced nutrition program"
+    ],
+    "prevention": [
+      "Continue canopy management for airflow",
+      "Monitor regularly for early disease symptoms",
+      "Follow preventive spray schedule",
+      "Maintain proper drainage"
+    ],
+    "severity_factors": []
+  },
+  "Orange Haunglongbing Citrus Greening": {
+    "description": "Caused by Candidatus Liberibacter bacteria, spread by Asian citrus psyllid. Produces blotchy mottled leaves and lopsided bitter fruit.",
+    "treatment": [
+      "No cure exists - manage to extend tree productivity",
+      "Apply systemic insecticides (Imidacloprid) for psyllid control",
+      "Use foliar nutritional sprays to maintain tree health",
+      "Apply Enhanced Foliar Nutrition (EFN) program",
+      "Remove and destroy severely infected trees to prevent spread"
+    ],
+    "prevention": [
+      "Control Asian citrus psyllid populations aggressively",
+      "Use certified disease-free nursery stock",
+      "Apply reflective mulch to repel psyllids",
+      "Implement area-wide psyllid management programs"
+    ],
+    "severity_factors": ["psyllid population density", "tree age", "nutritional stress"]
+  },
+  "Peach Bacterial Spot": {
+    "description": "Caused by Xanthomonas arboricola pv. pruni. Creates angular water-soaked lesions that become necrotic. Defoliates trees.",
+    "treatment": [
+      "Apply Copper hydroxide 77% WP at 2g/litre at petal fall",
+      "Spray Oxytetracycline at 1g/litre during bloom",
+      "Use Copper + Mancozeb combination at 2g/litre",
+      "Apply bactericide sprays at 7-10 day intervals",
+      "Reduce nitrogen to slow canopy growth"
+    ],
+    "prevention": [
+      "Plant resistant peach varieties",
+      "Avoid overhead irrigation and wetting foliage",
+      "Maintain proper tree spacing and pruning",
+      "Apply copper sprays at leaf fall and before bud break"
+    ],
+    "severity_factors": ["wind-driven rain", "temp 25-30°C", "high humidity"]
+  },
+  "Peach Healthy": {
+    "description": "No disease detected. The peach leaf appears healthy with normal coloration.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue regular peach tree care",
+      "Maintain balanced fertilization"
+    ],
+    "prevention": [
+      "Regular monitoring for disease and pest symptoms",
+      "Apply dormant-season copper spray",
+      "Prune annually for air circulation",
+      "Maintain proper irrigation schedule"
+    ],
+    "severity_factors": []
+  },
+  "Pepper Bell Bacterial Spot": {
+    "description": "Caused by Xanthomonas campestris pv. vesicatoria. Creates small dark water-soaked lesions on leaves and fruit.",
+    "treatment": [
+      "Apply Copper oxychloride 50% WP at 3g/litre",
+      "Spray Streptomycin sulfate at 0.5g/litre (where permitted)",
+      "Use Copper hydroxide + Mancozeb combination",
+      "Apply Acibenzolar-S-methyl for systemic resistance",
+      "Remove and destroy severely infected plants"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds and transplants",
+      "Practice crop rotation (3-year minimum)",
+      "Avoid working in wet fields",
+      "Disinfect tools and equipment between fields"
+    ],
+    "severity_factors": ["warm wet conditions", "temp 25-35°C", "overhead sprinkler irrigation"]
+  },
+  "Pepper Bell Healthy": {
+    "description": "No disease detected. The bell pepper leaf appears healthy with normal green coloration.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue standard pepper care practices",
+      "Maintain adequate calcium supply to prevent blossom end rot"
+    ],
+    "prevention": [
+      "Monitor for pests and diseases regularly",
+      "Maintain consistent watering schedule",
+      "Apply balanced fertilizer",
+      "Provide adequate support for heavy fruit"
+    ],
+    "severity_factors": []
+  },
+  "Potato Early Blight": {
+    "description": "Caused by Alternaria solani. Creates concentric ring target-shaped brown lesions on older leaves. Progresses upward through canopy.",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2.5g/litre of water",
+      "Spray Chlorothalonil at 2g/litre at first symptom",
+      "Use Azoxystrobin at 1ml/litre for active infection",
+      "Apply Difenoconazole at 0.5ml/litre for severe cases",
+      "Remove lower infected leaves to slow spread"
+    ],
+    "prevention": [
+      "Use certified disease-free seed potatoes",
+      "Practice 3-year crop rotation",
+      "Maintain balanced nitrogen fertility",
+      "Irrigate in morning to allow leaf drying"
+    ],
+    "severity_factors": ["alternating wet-dry conditions", "nitrogen deficiency", "plant stress"]
+  },
+  "Potato Late Blight": {
+    "description": "Caused by Phytophthora infestans. Creates water-soaked dark lesions with white sporulation on leaf undersides. Extremely destructive.",
+    "treatment": [
+      "Apply Metalaxyl + Mancozeb (Ridomil Gold) at 2.5g/litre",
+      "Spray Cymoxanil + Mancozeb (Curzate M) at 3g/litre",
+      "Use Dimethomorph 50% WP at 1g/litre for active infection",
+      "Apply Mandipropamid at 0.6ml/litre as curative spray",
+      "Destroy all infected plant material - do not compost"
+    ],
+    "prevention": [
+      "Plant certified late blight resistant varieties",
+      "Avoid overhead irrigation",
+      "Hill soil around potato stems to protect tubers",
+      "Begin preventive fungicide spray when humidity exceeds 80%"
+    ],
+    "severity_factors": ["humidity > 90%", "temp 10-25°C", "prolonged leaf wetness > 10hrs"]
+  },
+  "Potato Healthy": {
+    "description": "No disease detected. The potato leaf appears healthy with normal growth.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue balanced fertilization program",
+      "Maintain proper hilling schedule"
+    ],
+    "prevention": [
+      "Monitor for early and late blight symptoms regularly",
+      "Use certified seed potatoes",
+      "Practice crop rotation",
+      "Maintain proper soil drainage"
+    ],
+    "severity_factors": []
+  },
+  "Raspberry Healthy": {
+    "description": "No disease detected. The raspberry leaf appears healthy with normal coloration.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue regular raspberry cane management",
+      "Maintain mulch around base"
+    ],
+    "prevention": [
+      "Remove spent floricanes after harvest",
+      "Maintain proper spacing between canes",
+      "Apply dormant-season lime sulfur spray",
+      "Monitor for viral symptoms"
+    ],
+    "severity_factors": []
+  },
+  "Rice Brown Spot": {
+    "description": "Caused by Bipolaris oryzae. Creates oval brown spots with gray centers on leaves. Associated with nutrient-deficient soils.",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2.5g/litre of water",
+      "Spray Propiconazole 25% EC at 1ml/litre",
+      "Use Carbendazim 50% WP at 1g/litre",
+      "Apply Tricyclazole 75% WP at 0.6g/litre",
+      "Correct soil nutrient deficiencies, especially potassium"
+    ],
+    "prevention": [
+      "Use balanced fertilization especially potassium",
+      "Treat seeds with fungicide before sowing",
+      "Maintain proper water management in paddies",
+      "Use resistant rice varieties"
+    ],
+    "severity_factors": ["nutrient-poor soils", "drought stress", "sandy soils"]
+  },
+  "Rice Hispa": {
+    "description": "Caused by Dicladispa armigera (rice hispa beetle). Adults scrape upper leaf surface; larvae mine between leaf tissues.",
+    "treatment": [
+      "Apply Chlorpyrifos 20% EC at 2.5ml/litre",
+      "Spray Quinalphos 25% EC at 2ml/litre on affected areas",
+      "Use Cartap Hydrochloride 4G granules at 25kg/ha",
+      "Manually remove and destroy infected leaf tips",
+      "Apply neem-based formulation at 5ml/litre"
+    ],
+    "prevention": [
+      "Avoid excessive nitrogen application",
+      "Remove grassy weeds from field margins",
+      "Clip leaf tips during transplanting if eggs are visible",
+      "Use resistant rice varieties"
+    ],
+    "severity_factors": ["high nitrogen", "weed pressure", "humid conditions"]
+  },
+  "Rice Leaf Blast": {
+    "description": "Caused by Magnaporthe oryzae. Creates diamond-shaped lesions with gray centers on leaves. Can destroy entire crop if untreated.",
+    "treatment": [
+      "Apply Tricyclazole 75% WP at 0.6g/litre of water immediately",
+      "Spray Isoprothiolane 40% EC at 1.5ml/litre",
+      "Use Carbendazim 50% WP at 1g/litre as alternative",
+      "Apply Kasugamycin 3% SL at 2ml/litre for bacterial component",
+      "Drain field and reduce nitrogen application"
+    ],
+    "prevention": [
+      "Plant blast-resistant rice varieties",
+      "Avoid excessive nitrogen fertilization",
+      "Maintain proper plant spacing for air circulation",
+      "Use seed treatment with Tricyclazole before sowing"
+    ],
+    "severity_factors": ["high nitrogen", "humidity > 90%", "temp 20-30°C", "prolonged leaf wetness"]
+  },
+  "Soybean Healthy": {
+    "description": "No disease detected. The soybean leaf appears healthy with normal trifoliate structure.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue standard soybean management practices",
+      "Monitor for pest pressure"
+    ],
+    "prevention": [
+      "Practice crop rotation with non-legume crops",
+      "Monitor for soybean rust and sudden death syndrome",
+      "Maintain proper soil pH for nitrogen fixation",
+      "Scout fields weekly during reproductive stages"
+    ],
+    "severity_factors": []
+  },
+  "Squash Powdery Mildew": {
+    "description": "Caused by Podosphaera xanthii. Creates white powdery patches on leaf surfaces. Reduces fruit quality and yield.",
+    "treatment": [
+      "Apply sulfur-based fungicide at 3g/litre of water",
+      "Spray Myclobutanil at 0.5ml/litre for active infection",
+      "Use potassium bicarbonate at 5g/litre as organic option",
+      "Apply neem oil at 5ml/litre weekly",
+      "Spray milk solution (40% milk) as home remedy"
+    ],
+    "prevention": [
+      "Plant powdery mildew resistant varieties",
+      "Ensure proper plant spacing for airflow",
+      "Avoid overhead watering",
+      "Remove and destroy infected leaves early"
+    ],
+    "severity_factors": ["low humidity", "temp 20-30°C", "shaded conditions"]
+  },
+  "Strawberry Leaf Scorch": {
+    "description": "Caused by Diplocarpon earlianum. Creates irregular purple blotches on leaves that merge and cause leaf drying (scorch).",
+    "treatment": [
+      "Apply Captan 50% WP at 2g/litre of water",
+      "Spray Myclobutanil at 0.5ml/litre at first symptom",
+      "Use Copper hydroxide at 2g/litre after renovation",
+      "Remove and destroy severely infected leaves",
+      "Renovate beds by mowing after harvest"
+    ],
+    "prevention": [
+      "Plant resistant strawberry varieties",
+      "Ensure good air circulation between plants",
+      "Use drip irrigation, avoid wetting leaves",
+      "Renovate strawberry beds annually after harvest"
+    ],
+    "severity_factors": ["warm wet weather", "crowded planting", "poor air circulation"]
+  },
+  "Strawberry Healthy": {
+    "description": "No disease detected. The strawberry leaf appears healthy with vibrant green color.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue regular strawberry care",
+      "Maintain runners and bed management"
+    ],
+    "prevention": [
+      "Monitor for leaf spot and mildew symptoms",
+      "Maintain straw mulch for weed and splash control",
+      "Replace plants every 3-4 years",
+      "Ensure proper drainage"
+    ],
+    "severity_factors": []
+  },
+  "Tomato Bacterial Spot": {
+    "description": "Caused by Xanthomonas vesicatoria. Creates small dark water-soaked spots on leaves that become necrotic with yellow halos.",
+    "treatment": [
+      "Apply Copper oxychloride 50% WP at 3g/litre of water",
+      "Spray Streptomycin sulfate at 0.5g/litre (where permitted)",
+      "Use Copper hydroxide + Mancozeb (2g + 2.5g per litre)",
+      "Apply Acibenzolar-S-methyl for host resistance induction",
+      "Remove severely infected plants from field"
+    ],
+    "prevention": [
+      "Use pathogen-free seed and transplants",
+      "Practice 2-3 year crop rotation",
+      "Avoid overhead irrigation",
+      "Disinfect stakes, ties, and equipment"
+    ],
+    "severity_factors": ["temp 25-30°C", "wind-driven rain", "overhead irrigation"]
+  },
+  "Tomato Early Blight": {
+    "description": "Caused by Alternaria solani. Creates concentric ring (bull's-eye) lesions starting on lower older leaves. Progressive defoliation.",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2.5g/litre of water",
+      "Spray Chlorothalonil at 2g/litre at 7-day intervals",
+      "Use Azoxystrobin at 1ml/litre for active infection",
+      "Apply Difenoconazole at 0.5ml/litre in severe cases",
+      "Remove lower infected leaves and destroy"
+    ],
+    "prevention": [
+      "Stake or cage plants for air circulation",
+      "Mulch soil to prevent splash-borne infection",
+      "Rotate crops on 3-year cycle",
+      "Water at base of plants in morning"
+    ],
+    "severity_factors": ["alternating wet-dry", "temp 24-29°C", "stressed plants"]
+  },
+  "Tomato Late Blight": {
+    "description": "Caused by Phytophthora infestans. Rapidly spreading water-soaked dark lesions with white fuzzy sporulation underneath. Can destroy crop in days.",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2g per litre of water",
+      "Spray Metalaxyl + Mancozeb (Ridomil Gold) at 2.5g/litre",
+      "Remove and destroy infected plant parts immediately",
+      "Avoid overhead irrigation; switch to drip irrigation",
+      "Apply copper-based fungicide as preventive spray"
+    ],
+    "prevention": [
+      "Use certified disease-resistant varieties",
+      "Maintain proper plant spacing for air circulation",
+      "Rotate crops - avoid tomato/potato in same field",
+      "Monitor fields regularly during monsoon season"
+    ],
+    "severity_factors": ["humidity > 80%", "temp 10-25°C", "prolonged leaf wetness"]
+  },
+  "Tomato Leaf Mold": {
+    "description": "Caused by Passalora fulva. Creates pale green-yellow spots on upper leaf surface with olive-brown fuzzy mold beneath.",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2.5g/litre of water",
+      "Spray Chlorothalonil at 2g/litre at 10-day intervals",
+      "Use Copper oxychloride at 3g/litre for greenhouse crops",
+      "Improve greenhouse ventilation immediately",
+      "Remove heavily infected lower leaves"
+    ],
+    "prevention": [
+      "Plant resistant tomato varieties (Cf gene resistance)",
+      "Ensure proper ventilation in greenhouses",
+      "Avoid high humidity - use drip irrigation",
+      "Space plants adequately for airflow"
+    ],
+    "severity_factors": ["humidity > 85%", "temp 22-28°C", "greenhouse conditions"]
+  },
+  "Tomato Septoria Leaf Spot": {
+    "description": "Caused by Septoria lycopersici. Creates numerous small circular spots with dark borders and gray centers with tiny black pycnidia.",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2.5g/litre starting at first sign",
+      "Spray Chlorothalonil at 2g/litre at 7-10 day intervals",
+      "Use Copper oxychloride at 3g/litre as alternative",
+      "Apply Azoxystrobin at 1ml/litre for advanced infection",
+      "Remove infected lower leaves immediately"
+    ],
+    "prevention": [
+      "Mulch soil to prevent rain splash",
+      "Stake plants and prune lower branches",
+      "Rotate crops on 3-year cycle",
+      "Use drip irrigation to keep leaves dry"
+    ],
+    "severity_factors": ["warm wet weather", "temp 20-25°C", "rain splash"]
+  },
+  "Tomato Spider Mites": {
+    "description": "Caused by Tetranychus urticae (two-spotted spider mite). Creates tiny yellow stippling on leaves, fine webbing visible. Thrives in hot dry conditions.",
+    "treatment": [
+      "Spray Abamectin 1.9% EC at 0.5ml/litre of water",
+      "Apply Dicofol 18.5% EC at 2.5ml/litre",
+      "Use neem oil at 5ml/litre for mild infestations",
+      "Release Phytoseiulus persimilis predatory mites",
+      "Spray water forcefully on leaf undersides to dislodge mites"
+    ],
+    "prevention": [
+      "Maintain adequate plant hydration",
+      "Avoid broad-spectrum insecticides that kill predators",
+      "Monitor leaf undersides regularly with hand lens",
+      "Increase humidity around plants during hot weather"
+    ],
+    "severity_factors": ["hot dry conditions", "temp > 30°C", "Water stress", "dusty conditions"]
+  },
+  "Tomato Target Spot": {
+    "description": "Caused by Corynespora cassiicola. Creates brown lesions with concentric rings and yellow halos, primarily on lower leaves.",
+    "treatment": [
+      "Apply Chlorothalonil at 2g/litre of water",
+      "Spray Azoxystrobin at 1ml/litre at first symptoms",
+      "Use Difenoconazole at 0.5ml/litre for active infection",
+      "Apply Mancozeb 75% WP at 2.5g/litre preventively",
+      "Remove and destroy infected lower foliage"
+    ],
+    "prevention": [
+      "Practice crop rotation with non-solanaceous crops",
+      "Manage plant density for air movement",
+      "Mulch soil to reduce splash dispersal",
+      "Prune lower branches and maintain plant hygiene"
+    ],
+    "severity_factors": ["high humidity", "warm temperatures", "dense canopy"]
+  },
+  "Tomato Yellow Leaf Curl Virus": {
+    "description": "Caused by TYLCV, transmitted by Bemisia tabaci (whitefly). Leaves curl upward, yellow margins, stunted growth. No cure exists.",
+    "treatment": [
+      "No cure for viral infection - manage whitefly vector",
+      "Apply Imidacloprid 17.8% SL at 0.5ml/litre for whitefly control",
+      "Spray Thiamethoxam 25% WG at 0.3g/litre",
+      "Use yellow sticky traps to monitor and reduce whitefly",
+      "Remove and destroy infected plants to prevent spread"
+    ],
+    "prevention": [
+      "Plant TYLCV-resistant tomato varieties",
+      "Use reflective silver mulch to repel whiteflies",
+      "Install fine-mesh insect netting on nurseries",
+      "Maintain a crop-free period to break whitefly cycle"
+    ],
+    "severity_factors": ["whitefly population", "temp > 25°C", "continuous cropping"]
+  },
+  "Tomato Mosaic Virus": {
+    "description": "Caused by ToMV. Creates mosaic pattern of light and dark green on leaves, leaf distortion, and reduced fruit set. Extremely stable virus.",
+    "treatment": [
+      "No chemical cure exists for viral infections",
+      "Remove and destroy all infected plants immediately",
+      "Wash hands with soap before handling healthy plants",
+      "Disinfect tools with 10% bleach or TSP solution",
+      "Control aphid vectors with insecticidal soap"
+    ],
+    "prevention": [
+      "Use ToMV-resistant tomato varieties (Tm-2 gene)",
+      "Disinfect seeds with 10% TSP solution before sowing",
+      "Wash hands after handling tobacco products",
+      "Do not smoke near tomato plants",
+      "Sanitize greenhouse structures between crops"
+    ],
+    "severity_factors": ["mechanical transmission", "contaminated tools", "tobacco contact"]
+  },
+  "Tomato Healthy": {
+    "description": "No disease detected. The tomato leaf appears healthy with normal color and structure.",
+    "treatment": [
+      "No treatment required - plant is healthy",
+      "Continue regular watering and fertilization",
+      "Maintain support structures as plant grows"
+    ],
+    "prevention": [
+      "Monitor plants weekly for disease symptoms",
+      "Maintain consistent watering to prevent stress",
+      "Apply balanced fertilizer per growth stage",
+      "Prune suckers for better air circulation"
+    ],
+    "severity_factors": []
+  }
+}

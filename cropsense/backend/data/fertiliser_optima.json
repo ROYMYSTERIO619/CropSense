@@ -1,0 +1,188 @@
+{
+  "Tomato": {
+    "optimal_N": 120,
+    "optimal_P": 60,
+    "optimal_K": 80,
+    "npk_ratio": "2:1:1.3"
+  },
+  "Potato": {
+    "optimal_N": 150,
+    "optimal_P": 75,
+    "optimal_K": 100,
+    "npk_ratio": "2:1:1.3"
+  },
+  "Rice": {
+    "optimal_N": 120,
+    "optimal_P": 60,
+    "optimal_K": 60,
+    "npk_ratio": "2:1:1"
+  },
+  "Wheat": {
+    "optimal_N": 120,
+    "optimal_P": 60,
+    "optimal_K": 40,
+    "npk_ratio": "3:1.5:1"
+  },
+  "Corn": {
+    "optimal_N": 150,
+    "optimal_P": 65,
+    "optimal_K": 55,
+    "npk_ratio": "2.7:1.2:1"
+  },
+  "Sugarcane": {
+    "optimal_N": 250,
+    "optimal_P": 80,
+    "optimal_K": 120,
+    "npk_ratio": "3.1:1:1.5"
+  },
+  "Cotton": {
+    "optimal_N": 120,
+    "optimal_P": 60,
+    "optimal_K": 60,
+    "npk_ratio": "2:1:1"
+  },
+  "Soybean": {
+    "optimal_N": 30,
+    "optimal_P": 60,
+    "optimal_K": 40,
+    "npk_ratio": "0.75:1.5:1"
+  },
+  "Onion": {
+    "optimal_N": 100,
+    "optimal_P": 50,
+    "optimal_K": 80,
+    "npk_ratio": "1.25:0.6:1"
+  },
+  "Grape": {
+    "optimal_N": 100,
+    "optimal_P": 50,
+    "optimal_K": 100,
+    "npk_ratio": "1:0.5:1"
+  },
+  "Apple": {
+    "optimal_N": 70,
+    "optimal_P": 35,
+    "optimal_K": 70,
+    "npk_ratio": "2:1:2"
+  },
+  "Cherry": {
+    "optimal_N": 80,
+    "optimal_P": 40,
+    "optimal_K": 65,
+    "npk_ratio": "1.2:0.6:1"
+  },
+  "Peach": {
+    "optimal_N": 90,
+    "optimal_P": 45,
+    "optimal_K": 70,
+    "npk_ratio": "1.3:0.6:1"
+  },
+  "Strawberry": {
+    "optimal_N": 80,
+    "optimal_P": 40,
+    "optimal_K": 80,
+    "npk_ratio": "1:0.5:1"
+  },
+  "Blueberry": {
+    "optimal_N": 60,
+    "optimal_P": 30,
+    "optimal_K": 40,
+    "npk_ratio": "1.5:0.75:1"
+  },
+  "Raspberry": {
+    "optimal_N": 70,
+    "optimal_P": 35,
+    "optimal_K": 55,
+    "npk_ratio": "1.3:0.6:1"
+  },
+  "Pepper": {
+    "optimal_N": 120,
+    "optimal_P": 60,
+    "optimal_K": 90,
+    "npk_ratio": "1.3:0.7:1"
+  },
+  "Squash": {
+    "optimal_N": 100,
+    "optimal_P": 55,
+    "optimal_K": 70,
+    "npk_ratio": "1.4:0.8:1"
+  },
+  "Orange": {
+    "optimal_N": 200,
+    "optimal_P": 80,
+    "optimal_K": 150,
+    "npk_ratio": "1.3:0.5:1"
+  },
+  "Banana": {
+    "optimal_N": 200,
+    "optimal_P": 60,
+    "optimal_K": 300,
+    "npk_ratio": "0.7:0.2:1"
+  },
+  "Coconut": {
+    "optimal_N": 50,
+    "optimal_P": 30,
+    "optimal_K": 120,
+    "npk_ratio": "0.4:0.25:1"
+  },
+  "Groundnut": {
+    "optimal_N": 20,
+    "optimal_P": 40,
+    "optimal_K": 40,
+    "npk_ratio": "0.5:1:1"
+  },
+  "Mustard": {
+    "optimal_N": 80,
+    "optimal_P": 40,
+    "optimal_K": 30,
+    "npk_ratio": "2.7:1.3:1"
+  },
+  "Tea": {
+    "optimal_N": 150,
+    "optimal_P": 50,
+    "optimal_K": 50,
+    "npk_ratio": "3:1:1"
+  },
+  "Coffee": {
+    "optimal_N": 160,
+    "optimal_P": 60,
+    "optimal_K": 120,
+    "npk_ratio": "1.3:0.5:1"
+  },
+  "Jute": {
+    "optimal_N": 60,
+    "optimal_P": 30,
+    "optimal_K": 30,
+    "npk_ratio": "2:1:1"
+  },
+  "Tobacco": {
+    "optimal_N": 60,
+    "optimal_P": 60,
+    "optimal_K": 120,
+    "npk_ratio": "0.5:0.5:1"
+  },
+  "Chilli": {
+    "optimal_N": 120,
+    "optimal_P": 60,
+    "optimal_K": 80,
+    "npk_ratio": "1.5:0.75:1"
+  },
+  "Bajra": {
+    "optimal_N": 80,
+    "optimal_P": 40,
+    "optimal_K": 30,
+    "npk_ratio": "2.7:1.3:1"
+  },
+  "Rubber": {
+    "optimal_N": 30,
+    "optimal_P": 30,
+    "optimal_K": 30,
+    "npk_ratio": "1:1:1"
+  },
+  "Pea": {
+    "optimal_N": 25,
+    "optimal_P": 50,
+    "optimal_K": 50,
+    "npk_ratio": "0.5:1:1"
+  }
+}
